@@ -1,0 +1,13 @@
+.carousel-item{
+    width: 1650px;
+    height: 874px;
+
+background: #777777;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+}
